@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dr. Shikha Agarwal
 - 👀 I’m interested in learning new concepts in Coomputer Science.
-- 🌱 I’m currently learning and teaching Python
+- 🌱 I’m currently learning and teaching Python, Flutter, Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shikhaagarwal@ip.du.ac.in
 
